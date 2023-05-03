@@ -20,7 +20,7 @@ img {
 }
 
 .box-title {
-  background: #000000de;
+  background: white;
   color: #E3F4FF;
   padding: 40px;
   margin-bottom: 20px;
@@ -50,4 +50,11 @@ img {
     background: #060E17;
     color: #E3F4FF;
     padding: 20px 50px;
+}
+
+header {
+  background-image: url(../img/bg-header.jpg);
+  background-size: cover;
+  padding: 40px;
+  border-top: 5px solid #060E17;
 }
